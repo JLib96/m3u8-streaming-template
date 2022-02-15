@@ -1,0 +1,7 @@
+
+# Cordova
+/src-cordova/platforms
+/src-cordova/plugins
+/public/cordova.js
+node_modules
+/src-cordova/node_modules
